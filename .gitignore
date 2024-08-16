@@ -5,3 +5,4 @@
 /.env.*
 /logs.log
 /packaged/
+node_modules/

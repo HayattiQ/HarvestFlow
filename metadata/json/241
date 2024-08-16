@@ -1,0 +1,43 @@
+{
+  "name": "RUMDUOL #241",
+  "description": "HARVEST FLOW is a service that enables social contribution by lending cryptocurrency to businesses dedicated to improving the world, thereby earning stable income gains while supporting impactful initiatives. Beyond financial returns, it offers a new form of social action by harvesting global prosperity (Harvest) and creating economic and social impact through the flow of funds (Flow).\nThe gathered funds are invested in real-world assets (RWA) that generate revenue over time, allowing users to tangibly see how their support is making a positive impact on society through the visualization of social actions.",
+  "image": "https://gateway.irys.xyz/gxBSkz6E0rnS3BbbdXEtUD4Dbq1FDeuTsJUp9ejX67M/1.png",
+  "attributes": [
+    {
+      "trait_type": "Lending Amount",
+      "value": "40"
+    },
+    {
+      "trait_type": "Crypto",
+      "value": "DAI"
+    },
+    {
+      "trait_type": "Country",
+      "value": "Cambodia"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Tuk Tuk"
+    },
+    {
+      "trait_type": "Asset ID",
+      "value": "1"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Message",
+      "value": "EMPOWERING THE ANONYMOUS HEROS."
+    },
+    {
+      "trait_type": "Collaboration",
+      "value": "IZUMIDA LEE"
+    }
+  ]
+}
